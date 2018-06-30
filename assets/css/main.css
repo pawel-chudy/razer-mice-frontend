@@ -2619,15 +2619,17 @@
 .npad {
     padding: 0;
 }
+
 .greenH3{
     color: rgba(49, 255, 0, 0.6);
-/*    -webkit-filter: brightness(100%);*/
 }
+
 .darkerFit{
-        background: rgba(2, 31, 0, 0.75);!important;
-        border-bottom-left-radius: 2px!important;
-        border-bottom-right-radius: 2px!important;
+    background: rgba(2, 31, 0, 0.75);!important;
+    border-bottom-left-radius: 2px!important;
+    border-bottom-right-radius: 2px!important;
 }
+
 .darkerFitSubt{
     background: rgb(2,21,0) !important;
     border-bottom-left-radius: 2px!important;
