@@ -1,0 +1,8 @@
+/*Regular*/
+@font-face {
+  font-family: 'RazerF5';
+  src: url('RazerF5.eot?#iefix') format('embedded-opentype'),  url('RazerF5.otf')  format('opentype'),
+	     url('RazerF5.woff') format('woff'), url('RazerF5.ttf')  format('truetype'), url('RazerF5.svg#RazerF5') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
